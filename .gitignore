@@ -1,0 +1,6 @@
+# Generated receipt files
+receipt_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
